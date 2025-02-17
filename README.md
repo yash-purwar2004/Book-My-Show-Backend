@@ -237,5 +237,5 @@ mysql-db
 This ensures easy versioning, rollback, and scalability of the application. 🚀
 
 ## Contact
-For any inquiries or issues, please contact [prathik7890@gmail.com](mailto:prathik7890@gmail.com).
+For any inquiries or issues, please contact [yashpurwar.251198@gmail.com](mailto:yashpurwar.251198@gmail.com).
 
